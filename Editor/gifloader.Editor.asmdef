@@ -1,0 +1,18 @@
+{
+    "name": "gifloader.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:28360f8040e3454438dcdcc5421f6193"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
