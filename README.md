@@ -10,12 +10,12 @@ A gifloader package for the [Unity](https://unity.com/) Game Engine.
 
 - Open your Unity project settings
 - Select the `Package Manager`
-![scoped-registries](Documentation~/images/package-manager-scopes.png)
+![scoped-registries](gifloader/Packages/com.gifloader/Documentation~/images/package-manager-scopes.png)
 - Add the OpenUPM package registry:
   - `Name: OpenUPM`
   - `URL: https://package.openupm.com`
   - `Scope(s):`
-    - `com.gifloader`
+    - `com.rage-against-the-pixel.gif-loader`
 - Open the Unity Package Manager window
 - Change the Registry from Unity to `My Registries`
 - Add the `gifloader` package
@@ -23,12 +23,4 @@ A gifloader package for the [Unity](https://unity.com/) Game Engine.
 ### Via Unity Package Manager and Git url
 
 - Open your Unity Package Manager
-- Add package from git url: `https://github.com/StephenHodgson/com.gifloader.git#upm`
-
-## Getting Started
-
-### Project Setup
-
-```csharp
-// TODO
-```
+- Add package from git url: `https://github.com/StephenHodgson/com.gif-loader.git#upm`
