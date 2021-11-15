@@ -1,6 +1,6 @@
 # com.gifloader
 
-[![openupm](https://img.shields.io/npm/v/com.gifloader?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.gifloader/)
+[![openupm](https://img.shields.io/npm/v/com.rage-against-the-pixel.gif-loader?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.rage-against-the-pixel.gif-loader/)
 
 A gifloader package for the [Unity](https://unity.com/) Game Engine.
 
