@@ -1,6 +1,9 @@
 {
-    "name": "ProjectScope.ProjectName.Editor",
-    "references": [],
+    "name": "gifloader.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:28360f8040e3454438dcdcc5421f6193"
+    ],
     "includePlatforms": [
         "Editor"
     ],
